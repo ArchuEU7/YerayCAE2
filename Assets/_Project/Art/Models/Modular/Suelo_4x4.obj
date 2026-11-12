@@ -1,0 +1,36 @@
+# ProBuilder 6.1.4
+# https://unity3d.com/unity/features/worldbuilding/probuilder
+# 11/12/2026 4:54:17 PM
+
+mtllib ./Suelo_4x4.mtl
+o Suelo_4x4
+
+g Suelo_4x4
+v 2 0 -2
+v 2 0 0
+v 0 0 -2
+v 0 0 0
+v 2 0 2
+v 0 0 2
+v -2 0 -2
+v -2 0 0
+v -2 0 2
+
+vt -2 -2
+vt -2 0
+vt 0 -2
+vt 0 0
+vt -2 2
+vt 0 2
+vt 2 -2
+vt 2 0
+vt 2 2
+
+vn 0 1 0
+
+usemtl ProBuilderDefault
+f 3/3/1 4/4/1 2/2/1 1/1/1
+f 4/4/1 6/6/1 5/5/1 2/2/1
+f 7/7/1 8/8/1 4/4/1 3/3/1
+f 8/8/1 9/9/1 6/6/1 4/4/1
+
